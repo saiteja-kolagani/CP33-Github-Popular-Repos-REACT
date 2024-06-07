@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.filter-item {
+  margin: 15px;
+}
+.filter-btn-item {
+  background: transparent;
+  border: none;
+  color: #0f172a;
+  font-weight: 600;
+  font-size: 14px;
+  cursor: pointer;
+}
+.selected-tab {
+  color: #0284c7;
+  border: 1px solid #0284c7;
+  border-radius: 10px;
+  padding-inline: 12px;
+}

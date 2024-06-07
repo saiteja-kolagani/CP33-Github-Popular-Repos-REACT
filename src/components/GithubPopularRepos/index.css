@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffffff;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.main-heading {
+  color: #0f172a;
+  font-family: 'Lobster';
+  font-size: 36px;
+}
+.tab-container {
+  list-style-type: none;
+  display: flex;
+}
+.repos-container {
+  list-style-type: none;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
